@@ -1,2 +1,2 @@
-# HI-411
-Oppgaveseminar, master i historie
+# Master-i-historie
+Oppgaver, prosjekter og essays
